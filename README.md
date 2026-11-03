@@ -24,8 +24,9 @@ Name = Aqsa Zeeshan Student Id = BCS2024345 Roll no = 2410303102 Assignments : H
 15. Assignment 15: Additional Practical / Assignment (confirm exact title)
 
 
-Lab 1 - Basic HTML Web Page
 
+
+Lab 1 - Basic HTML Web Page
 
 Aim:
 To create a basic web page using HTML and CSS.
