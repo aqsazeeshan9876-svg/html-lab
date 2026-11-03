@@ -5,7 +5,11 @@ This repository is created by Aqsa Zeeshan
 For HTML-CSS Practicals
 
 
-Name = Aqsa Zeeshan Student Id = BCS2024345 Roll no = 2410303102 Assignments : HTML, CSS & GitHub Assignments
+Name = Aqsa Zeeshan 
+Student Id = BCS2024345 
+Roll no = 2410303102 
+Assignments : HTML, CSS & GitHub Assignments
+
 
 1. Assignment 1: Starting a Git Repository
 2. Assignment 2: Pushing and Cloning a Repository
